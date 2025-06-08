@@ -113,11 +113,11 @@ The analysis identified four distinct customer segments:
 Key insights are further supported by the following visualizations:
 
 ### Distribution Analysis of Numerical Columns
-![Distribution Analysis of Numerical Columns](Histogram/HistogramDistribution.png) 
+![Distribution Analysis of Numerical Columns](Histogram/Histogram Distribution.png) 
 ![Distribution Analysis of Numerical Columns](Box/box.png)
 
 ### Product Category Preference Distribution by Cluster
-![Product Category Preference Distribution by Cluster](Product Category/Product Category Preference Distribution by Cluster.png)
+![Product Category Preference Distribution by Cluster](ProductCategory/ProductCategoryPreferenceDistributionbyCluster.png)
 * **Insight:** Clearly shows how product preferences differ significantly across segments, guiding targeted product promotions.
 
 ### Average Total Spent (USD) by Cluster
