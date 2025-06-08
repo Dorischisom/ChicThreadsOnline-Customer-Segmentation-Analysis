@@ -113,7 +113,7 @@ The analysis identified four distinct customer segments:
 Key insights are further supported by the following visualizations:
 
 ### Distribution Analysis of Numerical Columns
-![Distribution Analysis of Numerical Columns](Histogram/Histogram Distribution.png) 
+![Distribution Analysis of Numerical Columns](Histogram/HistogramDistribution.png) 
 ![Distribution Analysis of Numerical Columns](Box/box.png)
 
 ### Product Category Preference Distribution by Cluster
