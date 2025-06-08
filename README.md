@@ -78,7 +78,8 @@ The analysis identified four distinct customer segments:
 * **Activity:** Relatively active, with recent purchases (average 75.53 days ago).
 * **Loyalty:** Newer customers (average 1.99 years).
 * **Key Traits:** Not subscribers, strong preference for Casual Wear and Sportswear. Highly responsive to coupons (71.27% have used one). Located primarily in North and South regions.
-* **Persona:** These are younger, price-sensitive shoppers who are not yet loyal subscribers but are open to promotions. They engage moderately with the site and prefer everyday fashion and activewear.
+
+**Persona:** These are younger, price-sensitive shoppers who are not yet loyal subscribers but are open to promotions. They engage moderately with the site and prefer everyday fashion and activewear.
 
 ### Cluster 1: "The High-Value Loyal Subscribers" (500 Customers)
 * **Age:** Mid-range age (average 34.60 years).
@@ -86,7 +87,8 @@ The analysis identified four distinct customer segments:
 * **Activity:** Most active, with very recent purchases (average 15.95 days ago).
 * **Loyalty:** Most loyal and long-term customers (average 6.12 years).
 * **Key Traits:** All are subscribers. Strong preference for Formal Wear and Accessories. Very low coupon usage (only 13.80% have used one). Located primarily in East and West regions.
-* **Persona:** This is the most valuable segment – established, highly engaged, frequent, and high-spending customers who are loyal subscribers and prefer high-quality, more formal items. They are not driven by discounts.
+
+**Persona:** This is the most valuable segment – established, highly engaged, frequent, and high-spending customers who are loyal subscribers and prefer high-quality, more formal items. They are not driven by discounts.
 
 ### Cluster 2: "The Infrequent High-Ticket Buyers" (352 Customers)
 * **Age:** Older customer base (average 48.27 years).
@@ -94,7 +96,8 @@ The analysis identified four distinct customer segments:
 * **Activity:** Least active in terms of recency (average 220.87 days since last purchase).
 * **Loyalty:** Moderately loyal (average 4.49 years).
 * **Key Traits:** Not subscribers. Strong preference for Formal Wear and Accessories. Very low coupon usage (only 10.51% have used one). Evenly distributed across all regions.
-* **Persona:** These are mature, high-net-worth individuals who purchase rarely but spend a significant amount when they do. They are not subscribers and are not motivated by coupons, likely seeking quality and specific high-value items.
+
+**Persona:** These are mature, high-net-worth individuals who purchase rarely but spend a significant amount when they do. They are not subscribers and are not motivated by coupons, likely seeking quality and specific high-value items.
 
 ### Cluster 3: "The Inactive & Low-Engagement Segment" (445 Customers)
 * **Age:** Older customer base (average 42.74 years).
@@ -102,4 +105,27 @@ The analysis identified four distinct customer segments:
 * **Activity:** Least active, with very old last purchases (average 264.91 days ago).
 * **Loyalty:** Lower loyalty (average 2.61 years).
 * **Key Traits:** Not subscribers. Strong preference for Casual Wear and Sportswear. Extremely low coupon usage (only 0.67% have used one). Evenly distributed across all regions.
-* **Persona:** This segment represents older, highly inactive customers who have made very few, low-value purchases and show minimal engagement with the website or promotions. They are potentially churned or very low-potential customers.
+  
+**Persona:** This segment represents older, highly inactive customers who have made very few, low-value purchases and show minimal engagement with the website or promotions. They are potentially churned or very low-potential customers.
+
+# Visualizations
+
+Key insights are further supported by the following visualizations:
+
+### Distribution Analysis of Numerical Columns
+![Distribution Analysis of Numerical Columns](Histogram/HistogramDistribution.png) 
+![Distribution Analysis of Numerical Columns](Box/box.png)
+
+### Product Category Preference Distribution by Cluster
+![Product Category Preference Distribution by Cluster](Product Category/Product Category Preference Distribution by Cluster.png)
+* **Insight:** Clearly shows how product preferences differ significantly across segments, guiding targeted product promotions.
+
+### Average Total Spent (USD) by Cluster
+![Average Total Spent (USD) by Cluster](path/to/your/total_spent_by_cluster.png)
+* **Insight:** Highlights the disproportionate value of Cluster 1 and 2 compared to others, indicating where revenue generation efforts should be focused.
+
+### Distribution of Cluster Sizes
+![Distribution of Cluster Sizes](path/to/your/cluster_size_distribution.png)
+* **Insight:** Provides an understanding of the relative size of each customer segment, informing resource allocation.
+
+
