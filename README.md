@@ -1,4 +1,4 @@
-# Customer Segmentation Analysis for ChicThreads Online
+# Customer Segmentation Analysis for **ChicThreads Online**
 
 ![ChicThreads Online](Banner/ChicThreadsBanner.png)
 
