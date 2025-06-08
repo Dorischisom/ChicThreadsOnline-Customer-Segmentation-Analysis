@@ -185,7 +185,7 @@ Customer segmentation is an iterative process. Here are some opportunities to fu
 
 # Contact & Credits
 
-* **Author:** [Your Name]([https://www.linkedin.com/in/dorischisom]
+* **Author:** [Ogbu Doris Chisom]([https://www.linkedin.com/in/dorischisom]
 * **Email:** [dorisogbu16@gmail.com]
 * **GitHub:** [https://github.com/Dorischisom]
 
